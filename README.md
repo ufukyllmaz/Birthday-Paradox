@@ -1,2 +1,2 @@
 # Birthday-Paradox
-Simulates birthday paradox about given number of times
+This program makes Monte Carlo Simulation for the birthday paradox.
